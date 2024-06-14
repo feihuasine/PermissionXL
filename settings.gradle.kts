@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "PermissionXL"
 include(":app")
+include(":app:lihuajundev")
